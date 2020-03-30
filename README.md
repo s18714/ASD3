@@ -10,10 +10,15 @@ Liczba wysp na mapie.
 Przykład
 
 Wejście: 
+
     5 4
+   
     1 0 1 0 0
+    
     0 1 0 0 1
+    
     1 0 1 0 1
+    
     0 0 0 0 1
     
 Wyjście: 2 
